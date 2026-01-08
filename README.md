@@ -2,7 +2,7 @@
 
 ## 다양한 분석을 위한 무료 샘플 データセット 모음
 
-![Free datasets header](https://github.com/luminati-io/Free-datasets/blob/main/free-datasets.PNG)
+![Free datasets header](https://github.com/bright-kr/Free-datasets/blob/main/free-datasets.PNG)
 
 이 리포지토리에는 데이터 분석, 머신러닝, 연구에 사용할 수 있는 수천 개의 레코드를 포함한 **무료 データセット** 모음이 포함되어 있습니다. データセット은 비즈니스부터 소셜 미디어 데이터까지 여러 도메인에 걸쳐 있습니다. 모든 データセット은 [our Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)를 사용하여 수집되었습니다. 맞춤 データセット 또는 인기 있고 スクレイピング하기 어려운 도메인의 대규모 データセット이 필요하신가요? [Dataset Marketplace](https://brightdata.co.kr/products/datasets)를 확인해 보시기 바랍니다.
 
