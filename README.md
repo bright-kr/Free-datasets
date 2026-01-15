@@ -1,10 +1,10 @@
 # Free-Datasets
 
-## 다양한 분석을 위한 무료 샘플 データセット 모음
+## 다양한 분석을 위한 무료 샘플 데이터셋 모음
 
 ![Free datasets header](https://github.com/bright-kr/Free-datasets/blob/main/free-datasets.PNG)
 
-이 리포지토리에는 데이터 분석, 머신러닝, 연구에 사용할 수 있는 수천 개의 레코드를 포함한 **무료 データセット** 모음이 포함되어 있습니다. データセット은 비즈니스부터 소셜 미디어 데이터까지 여러 도메인에 걸쳐 있습니다. 모든 データセット은 [our Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)를 사용하여 수집되었습니다. 맞춤 データセット 또는 인기 있고 スクレイピング하기 어려운 도메인의 대규모 データセット이 필요하신가요? [Dataset Marketplace](https://brightdata.co.kr/products/datasets)를 확인해 보시기 바랍니다.
+이 리포지토리에는 데이터 분석, 머신러닝, 연구에 사용할 수 있는 수천 개의 레코드를 포함한 **무료 데이터셋** 모음이 포함되어 있습니다. 데이터셋은 비즈니스부터 소셜 미디어 데이터까지 여러 도메인에 걸쳐 있습니다. 모든 데이터셋은 [our Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)를 사용하여 수집되었습니다. 맞춤 데이터셋 또는 인기 있고 스크레이핑하기 어려운 도메인의 대규모 데이터셋이 필요하신가요? [Dataset Marketplace](https://brightdata.co.kr/products/datasets)를 확인해 보시기 바랍니다.
 
 ## 일부 데이터 포인트는 다음을 포함합니다:
 
@@ -23,14 +23,14 @@
 - `url`: 소스 페이지로의 직접 링크
 - `ratings`: 비즈니스, 제품 또는 서비스의 평점
 
-그 외에도 더 많은 항목이 있습니다. 이러한 データセット은 다양한 공개 소스에서 파생되었으며 여러 산업에 대한 인사이트를 제공합니다. [here](https://brightdata.co.kr/products/datasets/free)에서 전체 크기의 무료 データセット을 다운로드할 수 있습니다.
+그 외에도 더 많은 항목이 있습니다. 이러한 데이터셋은 다양한 공개 소스에서 파생되었으며 여러 산업에 대한 인사이트를 제공합니다. [here](https://brightdata.co.kr/products/datasets/free)에서 전체 크기의 무료 데이터셋을 다운로드할 수 있습니다.
 
-## 사용 가능한 データセット 파일 형식:
+## 사용 가능한 데이터셋 파일 형식:
 
 - **CSV**, **JSON**, **NDJSON**, **Parquet**
 - 선택적으로 `.gz`로 압축 가능
 
-## データセット 전달 옵션:
+## 데이터셋 전달 옵션:
 
 - **Email**, **API download**, **Webhook**, **Amazon S3**, **Google Cloud Storage**, **Microsoft Azure**, **Snowflake**, **SFTP**
 
@@ -42,7 +42,7 @@
 
 - 특정 프로젝트 요구에 따라 추가 데이터 포인트를 포함할 수 있습니다.
 
-## 이 리포지토리에 포함된 データセット 일부는 다음과 같습니다:
+## 이 리포지토리에 포함된 데이터셋 일부는 다음과 같습니다:
 
 - `LinkedIn-company-info.csv`
 - `Pinterest-posts.csv`
@@ -67,7 +67,7 @@
 - `twitter-posts.csv`
 - `walmart-products.csv`
 
-## 무료 データセット 사용 사례:
+## 무료 데이터셋 사용 사례:
 
 ### 1. 비즈니스 인텔리전스
 시장 트렌드, 기업 성과 또는 소비자 행동을 분석하여 인사이트를 얻고 의사결정 프로세스를 개선합니다.
@@ -86,4 +86,4 @@
 
 ## 연구자 및 NGO를 위한 무료 액세스
 
-환경 또는 사회적 목적을 위해 활동하는 학술 기관, 연구자, NGO 및 NPO에 データセット에 대한 **무료 액세스**를 제공합니다. 연구자 또는 NGO이시라면 [here](https://brightinitiative.com)에서 신청서를 제출해 주시기 바랍니다.
+환경 또는 사회적 목적을 위해 활동하는 학술 기관, 연구자, NGO 및 NPO에 데이터셋에 대한 **무료 액세스**를 제공합니다. 연구자 또는 NGO이시라면 [here](https://brightinitiative.com)에서 신청서를 제출해 주시기 바랍니다.
